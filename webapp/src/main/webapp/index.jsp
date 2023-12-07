@@ -99,7 +99,7 @@ h1{
             </ul>
 		
         </header>
-         <h1> Bigbillion offers starts from 15-1-2024 to 31-01-2024 </h1>   
+         <h1> Bigbillion offers starts from 31-01-2024 Onwards </h1>   
 	 
 
     </section>    
