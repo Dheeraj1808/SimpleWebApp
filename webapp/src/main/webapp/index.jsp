@@ -99,7 +99,7 @@ h1{
             </ul>
 		
         </header>
-         <h1> Oops offers runout </h1>   
+         <h1> Bigbillion offers starts from 15-1-2024 to 31-01-2024 </h1>   
 	 
 
     </section>    
