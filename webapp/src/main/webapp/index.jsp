@@ -99,7 +99,7 @@ h1{
             </ul>
 		
         </header>
-         <h1> Currently no offers... </h1>   
+         <h1> Offers available on mobile & laptops </h1>   
 	 
 
     </section>    
